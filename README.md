@@ -7,6 +7,7 @@
 
 <br />
 
+### ✨ Github Stats ✨ :
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LazyLeaks&show_icons=true&theme=light&line_height=27" alt="LazyLeaks's github stats"/>
 </a>
 
