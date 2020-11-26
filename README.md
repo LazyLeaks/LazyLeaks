@@ -12,7 +12,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="LazyLeaks's GitHub Stats" src="https://github-readme-stats.LazyLeaks.vercel.app/api?username=LazyLeaks&show_icons=true&hide_border=true" />
+  <img align="left" alt="LazyLeaks's GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+</a>
 
 </details>
 
